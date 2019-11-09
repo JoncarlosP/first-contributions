@@ -18624,6 +18624,7 @@ rehan
 - [Laura-Ella Robinson] (https://github.com/Laura-Ella)
 - [Jimmy Nagy] (https://github.com/JNagy15)
 - [Harfang88](https://github.com/Harfang88)
+- [Jon Perdomo](https://github.com/JoncarlosP)
 - [Thariq Alfa](https://github.com/alfaben12)
 - [Daniyal Yasin](https://github.com/daniyalyasin93)
 - [Sheena]
